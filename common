@@ -1,0 +1,60 @@
+continuous monitoring tools in DevOps:
+
+Monitoring Tools
+
+    sensu. -> flexible and scalable telemetry and service health checking solution for monitoring servers, 
+              containers services applications, functions and connected device
+
+    Nagios  -> legacy monitoring tool that introduced monitoring practices to a generation of operators
+
+    Prometheus  -> rely on the pull method to collect information with the built-in database
+   
+   
+Configuration Management Tools
+    
+    ansible  ->   python
+    
+    chef  ->  ruby
+    
+    puppet
+    
+Alerting Tools
+    
+    PagerDuty
+    
+    servicenow
+    
+    slack
+   
+Metric Storage
+  
+    influxdb
+    
+    splunk
+    
+    aws
+ 
+ Visualization Tool
+    
+    Grafana
+    
+    
+  
+ Framework :
+  Grafana + graphite / influx db / es
+ 
+ 
+ Grafana is a multi-platform open source analytics and interactive visualization web application. 
+ It provides:
+    Charts
+    Graphs
+    Alerts
+ 
+ 
+  
+ 
+    
+    
+  
+    
+   
